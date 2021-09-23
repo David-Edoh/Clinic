@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc71d304.chunk.css",
+    "main.js": "/static/js/main.b976e528.chunk.js",
+    "main.js.map": "/static/js/main.b976e528.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.21cb958c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.21cb958c.js.map",
+    "static/js/2.8c333c92.chunk.js": "/static/js/2.8c333c92.chunk.js",
+    "static/js/2.8c333c92.chunk.js.map": "/static/js/2.8c333c92.chunk.js.map",
+    "static/js/3.78313046.chunk.js": "/static/js/3.78313046.chunk.js",
+    "static/js/3.78313046.chunk.js.map": "/static/js/3.78313046.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cc71d304.chunk.css.map": "/static/css/main.cc71d304.chunk.css.map",
+    "static/js/2.8c333c92.chunk.js.LICENSE.txt": "/static/js/2.8c333c92.chunk.js.LICENSE.txt",
+    "static/media/Home.cbd4957e.jpg": "/static/media/Home.cbd4957e.jpg",
+    "static/media/doctor1.692e5f7f.jpg": "/static/media/doctor1.692e5f7f.jpg",
+    "static/media/doctorsnew.c448ecf7.jfif": "/static/media/doctorsnew.c448ecf7.jfif",
+    "static/media/doctorsnew1.5c1f73fa.jfif": "/static/media/doctorsnew1.5c1f73fa.jfif",
+    "static/media/doctorsnew2.8bcb2426.jfif": "/static/media/doctorsnew2.8bcb2426.jfif",
+    "static/media/laryngology.def2aff2.jfif": "/static/media/laryngology.def2aff2.jfif",
+    "static/media/logoeditted.e9c10bf8.png": "/static/media/logoeditted.e9c10bf8.png",
+    "static/media/partner5.1f46f50f.png": "/static/media/partner5.1f46f50f.png",
+    "static/media/partner6.52e99fd3.png": "/static/media/partner6.52e99fd3.png",
+    "static/media/partner6new.750f3e67.png": "/static/media/partner6new.750f3e67.png",
+    "static/media/working.1b0064b4.jpg": "/static/media/working.1b0064b4.jpg",
+    "static/media/working1.c0ab6c11.jpg": "/static/media/working1.c0ab6c11.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21cb958c.js",
+    "static/js/2.8c333c92.chunk.js",
+    "static/css/main.cc71d304.chunk.css",
+    "static/js/main.b976e528.chunk.js"
+  ]
+}
